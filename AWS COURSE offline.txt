@@ -1,0 +1,43 @@
+AWS COURSE (sumitabha das)
+
+Availability Zone is a single Data Center or a group of Data Centers in a region.
+every region has minimum 3 or more than 3 availability zones.
+
+launch an instance- EC2 INSTANCES 
+name and tags 
+sanskruti-aws14
+
+application and os image-  ubuntu                         
+                           ubuntu 24.04(LTS long time support)- 64 bits and then select 
+t2 micro free tier eligible
+
+key pair 
+select - 
+create new pair-sanskruti-aws14 
+key pair type- RSA
+pvt key file format-click .pen and then ok 
+now select key pair name -sanskruti-aws14 
+
+network settings 
+select create security groups 
+select SSH traffic form and select anywhere
+configure storage 8 gb 
+
+click on launch - launched successfully 
+instance id is always unique and it always starts from i 
+
+
+
+Q.how many classes are there in IP address A,B,C,D,E  
+how ip addresses is represented - 32 bits 
+Each class has a specific range of IP addresses. 
+Class A from 0-127,
+Class B from 128-191, 
+Class C from 192-223, 
+Class D from 224-239,
+Class E from 240-255.
+
+
+AVAILAIBILITY ZONE - ap-south-1b
+
+
